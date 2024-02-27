@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-## - 👨‍💻 All of my projects are available at [https://shmagioniani.github.io/portfolio](https://shmagioniani.github.io/portfolio)
+<!--- - 👨‍💻 All of my projects are available at [https://shmagioniani.github.io/portfolio](https://shmagioniani.github.io/portfolio) --->
 
 - 💬 Ask me about **React, Angular, Node, Express, MongoDB**
 
