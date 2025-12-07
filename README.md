@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shmagi Oniani</h1>
-დსფსდფფ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ადსად
 <h3 align="center">A passionate Java-Script developer from Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shmagioniani&label=Profile%20views&color=0e75b6&style=flat" alt="shmagioniani" /> </p>
